@@ -37,7 +37,7 @@ The project is organized into several components:
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abhishekgurjar-in/country-finder.git
+   git clone https://github.com/abhishekgurjarin/country-finder.git
    cd country-finder
    ```
 
@@ -74,4 +74,4 @@ In this project, we built a Country Finder application using React that allows u
 - **Font Awesome**: [Font Awesome](https://fontawesome.com/)
 
 ### Author
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjarin).
